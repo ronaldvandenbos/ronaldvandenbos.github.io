@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Mandemakers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6,Intl"></script>
+
+  <link rel="stylesheet" type="text/css" href="https://cdn01.boxcdn.net/platform/elements/7.2.0/en-US/uploader.csss">
+</head>
+<body>
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    </div>
+    <div class="col">
+      <img class="img-fluid" src="Mandemakers-logo.png" >
+      <hr>
+    </div>
+    <div class="col">
+
+    </div>
+  </div>
+</div>
+
+<div class="container" style="height:600px"></div>
+<script src="https://cdn01.boxcdn.net/platform/elements/7.2.0/en-US/uploader.js"></script>
+ <script>
+     var folderId = '123';
+     var accessToken = 'abc';
+     var uploader = new Box.ContentUploader();
+     uploader.show(folderId, accessToken, {
+         container: '.container'
+     });
+ </script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8" />
+    <title>Box Content Uploader Demo</title>
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6,Intl"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdn01.boxcdn.net/platform/elements/7.2.0/en-US/uploader.css" />
+    <style>
+      body {
+        background-color: linen;
+      }
+
+
+    </style>
+</head>
+
+
+
+<body>
+    <!--<div class="container" style="height:600px"></div> -->
+<div class="">
+
+
+
+
+  <div class="row">
+    <div class="col-lg-4" style="background-color:pink"><br><br><br><br><br><br><br><br></div>
+    <div class="col-lg-4" style="background-color:pink"><br><br><br><br><br><br><br><br></div>
+    <div class="col-lg-4" style="background-color:pink"<br><br><br><br><br><br><br><br></div>
+
+
+
+  </div>
+  <div class="row">
+    <div class="col-lg-4" style="background-color:teal">
+      <p> In het geval er iets niet in orde is met uw bestelling, vul dan het onderstaande formulier in
+        en sluit eventueel foto of video materiaal bij.
+    </div>
+    <div class="col-lg-8 container" style="height:600px;background-color:teal">
+      <script src="https://cdn01.boxcdn.net/platform/elements/7.2.0/en-US/uploader.js"></script>
+      <script>
+      var folderId = '64789613238';
+      var accessToken = 'ETuTUFkPE8VItsJWbEoPR8VjCFTHp19s';
+      var uploader = new Box.ContentUploader();
+      uploader.show(folderId, accessToken, {
+        container: '.container'
+      });
+      </script>
+
+    </div>
+
+  </div>
+
+
+
+
+
+
+
+
+</body>
+</html>
