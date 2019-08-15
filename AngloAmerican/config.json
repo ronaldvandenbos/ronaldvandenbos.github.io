@@ -1,0 +1,66 @@
+//Client ID
+var clientId="bnbfwiefsei4f6sjgpog0jdi3iznmqu8";
+
+//Main page
+var redirectAfterLoginPage="/SmithsGroup/main.html";
+
+//Navigation
+var navigation=[
+
+  {
+      "page":"welcome.html",
+      "title":"WELCOME"
+  },
+
+  {
+      "page":"learning.html",
+      "title":"LEARNING",
+      "boxId":"0"
+  },
+  {
+      "page":"safety.html",
+      "title":"SAFETY",
+      "boxId":"82990953194"
+  },
+  {
+      "page":"rota.html",
+      "title":"ROTA",
+      "boxId":"497467294371"
+  },
+  {
+      "page":"policies.html",
+      "title":"POLICIES",
+      "boxId":"84619138658"
+  },
+  {
+      "page":"personal.html",
+      "title":"DOCUMENTS",
+      "boxId":"82983784235"
+  },
+  {
+      "page":"payroll.html",
+      "title":"PAY",
+      "boxId":"82980865991"
+  },
+  {
+      "page":"safety2.html",
+      "title":"SAFETY REPORTING",
+      "boxId":"82990882337"
+  },
+  {
+      "page":"engineering.html",
+      "title":"ENGINEERING",
+      "boxId":"82986445529"
+  },
+  {
+      "page":"https://box-162828.workflowcloud.com/forms/abd13e39-0131-4038-9e86-bd57e0630517",
+      "title":"ONBOARDING"
+  },
+  {
+      "page":"login.html",
+      "title":"LOGOUT",
+      "boxId":"0"
+  }
+
+
+];
