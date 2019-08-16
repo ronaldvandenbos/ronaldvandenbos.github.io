@@ -1,8 +1,8 @@
 //Client ID
-var clientId="bnbfwiefsei4f6sjgpog0jdi3iznmqu8";
+var clientId="l27zjgznl99zzn4tosg7ieio8gg6t1bz";
 
 //Main page
-var redirectAfterLoginPage="/SmithsGroup/main.html";
+var redirectAfterLoginPage="/AngloAmerican/main.html";
 
 //Navigation
 var navigation=[

@@ -1,8 +1,8 @@
 //Client ID
-var clientId="bnbfwiefsei4f6sjgpog0jdi3iznmqu8";
+var clientId="v5p57ghdoto94jz4up9346dxherjmprj";
 
 //Main page
-var redirectAfterLoginPage="/SmithsGroup/main.html";
+var redirectAfterLoginPage="/Shell/main.html";
 
 //Navigation
 var navigation=[
