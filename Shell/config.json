@@ -1,5 +1,7 @@
 //Client ID
-var clientId="v5p57ghdoto94jz4up9346dxherjmprj";
+// var clientId="l27zjgznl99zzn4tosg7ieio8gg6t1bz";
+var clientId="z8nv4c805q9acia6bliegg2z3rp64yds"; //rb-att-shell clientID
+
 
 //Main page
 var redirectAfterLoginPage="/Shell/main.html";
@@ -15,12 +17,12 @@ var navigation=[
   {
       "page":"learning.html",
       "title":"LEARNING",
-      "boxId":"0"
+      "boxId":"84738102883"
   },
   {
       "page":"safety.html",
       "title":"SAFETY",
-      "boxId":"82990953194"
+      "boxId":"84738099283"
   },
   {
       "page":"rota.html",
