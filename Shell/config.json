@@ -26,7 +26,7 @@ var navigation=[
   },
   {
       "page":"rota.html",
-      "title":"ROTA",
+      "title":"SCHEDULE",
       "boxId":"497467294371"
   },
   {
@@ -37,12 +37,12 @@ var navigation=[
   {
       "page":"personal.html",
       "title":"DOCUMENTS",
-      "boxId":"82983784235"
+      "boxId":"85677436227"
   },
   {
       "page":"payroll.html",
       "title":"PAY",
-      "boxId":"82980865991"
+      "boxId":"85684883518"
   },
   {
       "page":"safety2.html",
@@ -55,7 +55,7 @@ var navigation=[
       "boxId":"82986445529"
   },
   {
-      "page":"https://box-162828.workflowcloud.com/forms/abd13e39-0131-4038-9e86-bd57e0630517",
+      "page":"https://ronaldvandenbos.workflowcloud.com/forms/2866d4a6-933c-4b88-9d2d-fdc28ca263af",
       "title":"ONBOARDING"
   },
   {
