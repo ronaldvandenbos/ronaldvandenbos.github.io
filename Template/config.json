@@ -1,5 +1,5 @@
 //Client ID
-var clientId="w17aq0ccewtkpmxep4zobhqhgx3ne87g";
+var clientId="bn2iyg37p78jkowrp0io0nc2ln0be3wt";
 
 //Main page
 var redirectAfterLoginPage="/Template/main.html";
@@ -52,15 +52,24 @@ var navigation=[
       "boxId":"0"
   },
   {
-      "page":"openwith.html",
-      "title":"OPENWITH",
-      "boxId":"0"
+    "page":"move.html",
+    "title":"MOVE",
+    "boxId":"0",
+    "boxId2":"0",
   },
   {
       "page":"uploader.html",
       "title":"UPLOADER",
       "boxId":"0"
-  }
+  },
+  {
+        "page":"map_folder.html",
+        "title":"MAP",
+        "boxId":"81642016647",
+        "latitude":51.533772570045016,
+        "longitude":-0.09330533022541276,
+        "zoomLevel":10
+    }
 
 
 ];
