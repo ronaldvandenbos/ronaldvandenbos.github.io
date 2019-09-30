@@ -1,5 +1,6 @@
 //Client ID
-var clientId="bn2iyg37p78jkowrp0io0nc2ln0be3wt";
+//var clientId="bn2iyg37p78jkowrp0io0nc2ln0be3wt";
+var clientId="z8nv4c805q9acia6bliegg2z3rp64yds";
 
 //Main page
 var redirectAfterLoginPage="/Template/main.html";
