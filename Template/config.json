@@ -20,17 +20,17 @@ var navigation=[
   {
       "page":"folder1.html",
       "title":"FOLD1",
-      "boxId":"0"
+      "boxId":"90528099473"
   },
   {
       "page":"folder2.html",
       "title":"FOLD2",
-      "boxId":"0"
+      "boxId":"90524718153"
   },
   {
       "page":"folder3.html",
       "title":"FOLD3",
-      "boxId":"0"
+      "boxId":"90525029139"
   },
   {
       "page":"preview1.html",
