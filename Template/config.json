@@ -40,33 +40,33 @@ var navigation=[
   {
       "page":"preview2.html",
       "title":"PREV2",
-      "boxId":"0"
+      "boxId":"90520133349"
   },
   {
       "page":"preview3.html",
       "title":"PREV3",
-      "boxId":"0"
+      "boxId":"90518367437"
   },
   {
       "page":"preview4.html",
       "title":"PREV4",
-      "boxId":"0"
+      "boxId":"90526269990"
   },
   {
     "page":"move.html",
     "title":"MOVE",
-    "boxId":"0",
-    "boxId2":"0",
+    "boxId":"90525597019",
+    "boxId2":"90520133349",
   },
   {
       "page":"uploader.html",
       "title":"UPLOADER",
-      "boxId":"0"
+      "boxId":"90524411770"
   },
   {
         "page":"map_folder.html",
         "title":"MAP",
-        "boxId":"81642016647",
+        "boxId":"90520532003",
         "latitude":51.533772570045016,
         "longitude":-0.09330533022541276,
         "zoomLevel":10
