@@ -3,7 +3,7 @@
 var clientId="z8nv4c805q9acia6bliegg2z3rp64yds";
 
 //Main page
-var redirectAfterLoginPage="/Template/main.html";
+var redirectAfterLoginPage="/redcross/main.html";
 
 //Navigation
 var navigation=[
@@ -19,18 +19,18 @@ var navigation=[
   },
   {
       "page":"folder1.html",
-      "title":"FOLD1",
-      "boxId":"90528099473"
+      "title":"Red Cross Oslo",
+      "boxId":"91256735735"
   },
   {
       "page":"folder2.html",
       "title":"FOLD2",
-      "boxId":"90524718153"
+      "boxId":"91260386447"
   },
   {
       "page":"folder3.html",
       "title":"FOLD3",
-      "boxId":"90525029139"
+      "boxId":"91257443232"
   },
   {
       "page":"preview1.html",
