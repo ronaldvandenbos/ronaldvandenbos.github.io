@@ -1,0 +1,68 @@
+//Client ID
+//var clientId="l27zjgznl99zzn4tosg7ieio8gg6t1bz"; //John's clientID
+var clientId="z8nv4c805q9acia6bliegg2z3rp64yds"; //rb-att-shell clientID
+
+
+//Main page
+var redirectAfterLoginPage="/redcross/main.html";
+
+//Navigation
+var navigation=[
+
+  {
+      "page":"welcome.html",
+      "title":"WELCOME"
+  },
+
+  {
+      "page":"learning.html",
+      "title":"LEARNING",
+      "boxId":"84738102883"
+  },
+  {
+      "page":"safety.html",
+      "title":"SAFETY",
+      "boxId":"84738099283"
+  },
+  {
+      "page":"rota.html",
+      "title":"SCHEDULE",
+      "boxId":"497467294371"
+  },
+  {
+      "page":"policies.html",
+      "title":"POLICIES",
+      "boxId":"85781196978"
+  },
+  {
+      "page":"personal.html",
+      "title":"DOCUMENTS",
+      "boxId":"85677436227"
+  },
+  {
+      "page":"payroll.html",
+      "title":"PAY",
+      "boxId":"85684883518"
+  },
+  {
+      "page":"safety2.html",
+      "title":"SAFETY REPORTING",
+      "boxId":"84738093283"
+  },
+  {
+      "page":"engineering.html",
+      "title":"ENGINEERING",
+      "boxId":"82986445529"
+  },
+  {
+      "page":"onboarding.html",
+      "title":"ONBOARDING"
+  },
+  {
+      "page":"login.html",
+      "title":"LOGOUT",
+      "boxId":"0"
+  }
+
+
+];
