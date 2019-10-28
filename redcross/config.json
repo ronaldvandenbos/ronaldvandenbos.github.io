@@ -19,8 +19,8 @@ var navigation=[
   },
   {
       "page":"folder1.html",
-      "title":"Red Cross Oslo",
-      "boxId":"91256735735"
+      "title":"Red Cross Kopenhagen",
+      "boxId":"0"
   },
   {
       "page":"folder2.html",
