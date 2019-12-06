@@ -1,0 +1,37 @@
+//Client ID
+//var clientId="bn2iyg37p78jkowrp0io0nc2ln0be3wt";
+var clientId="z8nv4c805q9acia6bliegg2z3rp64yds";
+
+//Main page
+var redirectAfterLoginPage="/bouwinvest/main.html";
+
+//Navigation
+var navigation=[
+
+
+  {
+      "page":"home.html",
+      "title":"HOME"
+
+  },
+
+  {
+      "page":"folder1.html",
+      "title":"Bouwinvest",
+      "boxId":"0"
+  },
+
+  {
+      "page":"uploader.html",
+      "title":"UPLOADER",
+      "boxId":"95541468366"
+  },
+  {
+      "page":"preview1.html",
+      "title":"PREV1",
+      "boxId":"95542959197"
+  },
+
+
+
+];
